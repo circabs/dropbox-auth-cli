@@ -1,6 +1,6 @@
 {
   "name": "@circa/dropbox-auth-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "auth generator for dropbox api",
   "main": "lib/index.js",
   "scripts": {
